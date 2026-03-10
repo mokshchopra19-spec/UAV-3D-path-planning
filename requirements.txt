@@ -1,6 +1,0 @@
-osmnx
-networkx
-numpy
-matplotlib
-pyproj
-geopandas
