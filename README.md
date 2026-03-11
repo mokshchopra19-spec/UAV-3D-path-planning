@@ -21,3 +21,9 @@ using OpenStreetMap data and the A* algorithm.
 
 ## Author
 Moksh, Ananya, Abhi
+
+## Run the Project
+Install dependencies:
+pip install -r requirements.txt
+Run the planner:
+python main_3dplanner.py
