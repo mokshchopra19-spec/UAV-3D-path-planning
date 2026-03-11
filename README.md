@@ -20,34 +20,13 @@ using OpenStreetMap data and the A* algorithm.
 - Matplotlib
 ## System Pipeline
 
-OpenStreetMap Data
-
-        ↓
-        
-Building Footprint Extraction
-
-        ↓
-        
-Building Height Estimation
-
-        ↓
-        
-3D Obstacle Modeling
-
-        ↓
-        
-Voxel Grid Generation
-
-        ↓
-        
-3D A* Path Planning
-
-        ↓
-        
-Waypoint Generation
-
-        ↓
-        
+OpenStreetMap Data     
+Building Footprint Extraction      
+Building Height Estimation      
+3D Obstacle Modeling      
+Voxel Grid Generation      
+3D A* Path Planning      
+Waypoint Generation      
 QGroundControl Visualization
 
 ## Run the Project
