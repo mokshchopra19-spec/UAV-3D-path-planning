@@ -1,9 +1,0 @@
-osmnx
-geopandas
-numpy
-matplotlib
-networkx
-shapely
-pyproj
-pandas
-scipy
