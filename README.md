@@ -18,9 +18,23 @@ using OpenStreetMap data and the A* algorithm.
 - NumPy
 - PyProj
 - Matplotlib
+## System Pipeline
 
-## Author
-Moksh, Ananya, Abhi
+OpenStreetMap Data
+        ↓
+Building Footprint Extraction
+        ↓
+Building Height Estimation
+        ↓
+3D Obstacle Modeling
+        ↓
+Voxel Grid Generation
+        ↓
+3D A* Path Planning
+        ↓
+Waypoint Generation
+        ↓
+QGroundControl Visualization
 
 ## Run the Project
 Install dependencies:
@@ -30,3 +44,6 @@ pip install -r requirements.txt
 Run the planner:
 
 python main_3dplanner.py
+
+## Author
+Moksh, Ananya, Abhi
